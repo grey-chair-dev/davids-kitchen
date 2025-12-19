@@ -25,7 +25,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               className="p-2 rounded-sm inline-block"
             >
               <img 
-                src="logo.png" 
+                src="/logo.png" 
                 alt="David's Kitchen + Bar Logo" 
                 className="h-20 w-auto"
                 onError={(e) => { e.currentTarget.style.display = 'none'; }}

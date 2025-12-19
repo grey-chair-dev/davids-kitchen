@@ -30,7 +30,7 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage }) => {
             >
               <div className="p-1 rounded-sm">
                 <img 
-                  src="logo.png" 
+                  src="/logo.png" 
                   alt="David's Kitchen + Bar" 
                   className="h-12 w-auto"
                   onError={(e) => {
