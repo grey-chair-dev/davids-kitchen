@@ -1,0 +1,8 @@
+
+{
+  "name": "David's Kitchen - Cincinnati",
+  "description": "Cincinnati’s neighborhood spot for comfort food and cocktails. Straightforward American comfort food without pretense.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
